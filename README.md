@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @joeyaflores
-- 👀 I’m interested in software development and network security. 
+- 👀 I’m a Software Engineer at Herzog Technologies Inc,. 
 - 📫 How to reach me: joeyflores74@gmail.com
+- LinkedIn: www.linkedin.com/in/joeyaflores/
 

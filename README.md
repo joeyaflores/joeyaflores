@@ -1,6 +1,6 @@
 - 👋 Hi! I'm Joey Flores.
 - 💼 Currently working as a Software Engineer at Herzog Technologies, Inc., based out of DFW, Texas.
-- 🚀 With expertise in Python, Golang, Vue.js, React.js, and Java, I enjoy developing my skills while staying up-to-date on new technology.
+- 🚀 With experience in Python, Golang, Vue.js, React.js, and Java, I enjoy developing my skills while staying up-to-date on new technology.
 - 🌐 Recently deployed personal portfolio project using Vercel, keen on exploring more about modern web tech.
 - 🔗 Let's connect! Find me on LinkedIn or shoot me an email.
   - www.linkedin.com/in/joeyaflores/

@@ -1,5 +1,20 @@
-Lead Software Engineer @ Herzog. Professional experience building full-stack applications within the railroad industry.
+# 👋 Hi, I’m Joey Flores  
 
-Outside of work I'm an avid runner, blending software development and running with personal projects such as ourpr.app and runlete.io.
+💻 **Lead Software Engineer @ Herzog** — building full-stack applications in the railroad industry.  
+🏃 **Runner + Builder** — I blend software development with running through projects like [ourpr.app](https://ourpr.app) and [runlete.io](https://runlete.io).  
 
-Python, Go, and React are my go-to's. Tools such as Apache Airflow, Docker, and Kubernetes are in my wheelhouse.
+### 🛠 Tech I Use
+- **Languages**: Python, Go, JavaScript/React  
+- **Tools & Infra**: Docker, Kubernetes, Apache Airflow  
+- **Specialties**: Full-stack apps, cloud-native systems, data pipelines  
+
+---
+
+### 📌 Current Projects
+- [**OurPR.app**](https://ourpr.app) → Plan races & generate AI-powered training schedules.  
+- [**Runlete.io**](https://runlete.io) → Exploring data + community for runners.  
+
+---
+
+### 🌐 Connect
+- [LinkedIn](https://linkedin.com/in/joeyaflores)  

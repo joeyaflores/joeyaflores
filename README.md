@@ -1,4 +1,4 @@
-Lead Software Engineer @ Herzog. Experience building full-stack applications within the railroad industry. 
+Lead Software Engineer @ Herzog. Professional experience building full-stack applications within the railroad industry.
 
 Outside of work I'm an avid runner, blending software development and running with personal projects such as ourpr.app and runlete.io.
 

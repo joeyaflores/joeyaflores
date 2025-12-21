@@ -4,7 +4,7 @@
 **Runner + Builder** — I blend software development with running through projects like [ourpr.app](https://ourpr.app) and [runlete.io](https://runlete.io).  
 
 ### Current Tech Stack
-- **Languages**: Python, Go, JavaScript/React  
+- **Languages**: Python, Go, React  
 - **Tools & Infra**: Docker, Kubernetes, Apache Airflow  
 - **Specialties**: Full-stack apps, cloud-native systems, data pipelines  
 

@@ -1,20 +1,33 @@
-# Hi, I’m Joey Flores  
+# Hi, I’m Joey Flores
 
-**Lead Software Engineer @ Herzog** — building full-stack applications in the railroad industry.  
-**Runner + Builder** — I blend software development with running through projects like [ourpr.app](https://ourpr.app) and [runlete.io](https://runlete.io).  
+**Lead Software Engineer @ Herzog Technologies** — trusted early with ownership of safety-critical, data-intensive systems in the railroad industry. I focus on building backend-heavy products, production pipelines, and infrastructure that operate reliably under real-world constraints.
 
-### Current Tech Stack
-- **Languages**: Python, Go, React  
-- **Tools & Infra**: Docker, Kubernetes, Apache Airflow  
-- **Specialties**: Full-stack apps, cloud-native systems, data pipelines  
+Outside of work, I’m a competitive runner and solo builder, shipping products that blend software, data, and endurance sports.
 
 ---
 
-### Current Projects
-- [**OurPR.app**](https://ourpr.app) → Plan races & generate AI-powered training schedules.  
-- [**Runlete.io**](https://runlete.io) → Exploring data + community for runners.  
+## What I Work On
+
+- **Safety-critical production systems** — event-driven platforms, data pipelines, and infrastructure that scale with real operational consequences  
+- **End-to-end product ownership** — architecture, backend APIs, infrastructure, and delivery  
+- **Early-stage building** — comfortable operating without rigid specs, large teams, or guardrails  
 
 ---
 
-### Connect
-- [LinkedIn](https://linkedin.com/in/joeyaflores)  
+## Current Projects
+
+- **[OurPR.app](https://ourpr.app)** — Founder & solo engineer of a production platform helping runners discover races and generate AI-assisted training plans  
+
+---
+
+## Tech I Reach For
+
+- **Languages**: Golang, Python, TypeScript  
+- **Backend & Infra**: FastAPI, Docker, Kubernetes, GitLab CI/CD  
+- **Data & Orchestration**: PostgreSQL, MongoDB, Apache Airflow, RabbitMQ  
+
+---
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/joeyaflores)

@@ -16,7 +16,7 @@ Outside of work, I’m a competitive runner and solo builder, shipping products 
 
 ## Current Projects
 
-- **[OurPR.app](https://ourpr.app)** — Founder & solo engineer of a production platform helping runners discover races and generate AI-assisted training plans  
+- **[OurPR.app](https://ourpr.app)** — Founder & solo engineer of a production platform helping runners own their training data  
 
 ---
 
